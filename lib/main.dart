@@ -71,6 +71,7 @@ class _tugasrafi extends State<tugasrafi> {
                       textColor: Colors.white,
                       onPressed: () {
                         randomImage();
+                        print('Button Diklik');
                       },
                     ),
                   )),
